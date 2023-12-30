@@ -1,0 +1,13 @@
+# ide files
+venv*
+.idea*
+__pycache__*
+
+# database files
+dbs/users.db
+
+# json files
+support_data.json
+viol_data.json
+fines.json
+app_data.json
